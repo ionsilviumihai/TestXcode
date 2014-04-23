@@ -154,7 +154,7 @@
     
     //UIImageView *imgView = [[UIImageView alloc] initWithFrame:CGRectMake(0, 0, 20, 20)];
     //imgView.image = [UIImage imageNamed:@"pinicon"]
-    view.image = [UIImage imageNamed:@"pinicon"];
+    view.image = [UIImage imageNamed:@"pinicon2"];
     view.canShowCallout = YES;
     
     return view;
